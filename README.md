@@ -1,12 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=MATwave)
-<h1 align="center">Hi there, I'm Stanislav 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![codewars](https://www.codewars.com/users/MATwave/badges/large)](https://www.codewars.com/users/MATwave)
+# Hi there 👋 I'm Stanislav
 
 ### Technology stack 💻
- - Django
- - MSSQL
+ - Django/Flask
+ - MSSQL/PostgreSQL/SQLite
+ - Docker, docker compose
  
 ### I’m currently learning 🌱
  - Docker, docker-compose;
@@ -24,4 +23,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MATwave&layout=compact)]()
+## Stats
+- [![codewars](https://www.codewars.com/users/MATwave/badges/small)](https://www.codewars.com/users/MATwave)
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

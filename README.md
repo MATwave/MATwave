@@ -12,7 +12,7 @@
  - nginx
  
 ### How to reach me 📫
- - 📧 [stanislav.matveew@yandex.ru](stanislav.matveew@yandex.ru)
+ - 📧 stanislav.matveew@yandex.ru
  - 💬 [VK](https://vk.com/matveev_stanislav)
 <!--
 - 🔭 I’m currently working on ...

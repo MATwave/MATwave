@@ -2,9 +2,11 @@
 
 ### Technology stack 💻
  - Django
- - Docker, docker-compose
  - MSSQL
-
+ 
+### I’m currently learning 🌱
+ - Docker, docker-compose;
+ - nginx
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

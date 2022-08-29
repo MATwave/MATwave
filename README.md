@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**MATwave/MATwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Technology stack 💻
+ - Django
+ - Docker, docker-compose
+ - MSSQL
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

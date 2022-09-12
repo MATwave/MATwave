@@ -8,7 +8,7 @@
  - Docker, docker compose
  
 ### I’m currently learning 🌱
- -ElasticSearch
+ - ElasticSearch
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru

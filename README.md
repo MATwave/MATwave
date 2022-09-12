@@ -3,13 +3,12 @@
 # Hi there 👋 I'm Stanislav
 
 ### Technology stack 💻
- - Django/Flask
+ - Django/Flask/nginx
  - MSSQL/PostgreSQL/SQLite
  - Docker, docker compose
  
 ### I’m currently learning 🌱
- - Docker, docker-compose;
- - nginx
+ -ElasticSearch
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru

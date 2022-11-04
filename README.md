@@ -9,6 +9,7 @@
  
 ### I’m currently learning 🌱
  - ElasticSearch
+ - asyncio
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru

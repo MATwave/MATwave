@@ -2,14 +2,26 @@
 
 # Hi there 👋 I'm Stanislav
 
-### Technology stack 💻
+### Skills and technologies 💻
+ - Git
+ - Python
  - Django/Flask/nginx
  - MSSQL/PostgreSQL/SQLite
  - Docker, docker compose
+ - ETL
+ - Swagger
  
 ### I’m currently learning 🌱
  - ElasticSearch
- - asyncio
+ - AsyncIO
+ - FastAPI
+ - Redis
+
+### Plans to learn
+ - Oauth2
+ - ApacheKafka
+ - RabbitMQ
+ - ELK
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru

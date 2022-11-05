@@ -17,7 +17,7 @@
  - FastAPI
  - Redis
 
-### Plans to learn
+### Plans to learn 📖
  - Oauth2
  - ApacheKafka
  - RabbitMQ

@@ -25,7 +25,6 @@
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru
- - 💬 [VK](https://vk.com/matveev_stanislav)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...

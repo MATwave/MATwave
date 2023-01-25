@@ -2,26 +2,17 @@
 
 # Hi there 👋 I'm Stanislav
 
-### Skills and technologies 💻
- - Git
- - Python
- - Django/Flask/nginx
- - MSSQL/PostgreSQL/SQLite
- - Docker, docker compose
- - ETL
- - Swagger
- 
-### I’m currently learning 🌱
- - ElasticSearch
- - AsyncIO
- - FastAPI
- - Redis
+![типо я](https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif)
+| Skills And Technologies 💻  | I’m Currently Learning 🌱 | Plans To Learn 📖 |
+|-----------------------------|---------------------------|-------------------|
+| - Git                       |  - Elasticsearch          |  - Oauth2         |
+|  - Python                   |  - Asyncio                |  - Apachekafka    |
+|  - Django/flask/nginx       |  - Fastapi                |  - Rabbitmq       |
+|  - Mssql/postgresql/sqlite  |  - Redis                  |  - Elk            |
+|  - Docker, Docker Compose   |                           |                   |
+|  - Etl                      |                           |                   |
+|  - Swagger                  |                           |                   |
 
-### Plans to learn 📖
- - Oauth2
- - ApacheKafka
- - RabbitMQ
- - ELK
  
 ### How to reach me 📫
  - 📧 stanislav.matveew@yandex.ru
@@ -35,6 +26,11 @@
 - ⚡ Fun fact: ...
 -->
 ## Stats
-- [![codewars](https://www.codewars.com/users/MATwave/badges/small)](https://www.codewars.com/users/MATwave)
-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-- ![Matwave's github stats](https://github-readme-stats.vercel.app/api?username=Matwave&show_icons=true&include_all_commits=true&count_private=true)
+> ![Codewars](https://www.codewars.com/)
+> - [![codewars](https://www.codewars.com/users/MATwave/badges/small)](https://www.codewars.com/users/MATwave)
+
+> GitHub Streak
+> - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+> GitHub Stats
+> - ![Matwave's github stats](https://github-readme-stats.vercel.app/api?username=Matwave&show_icons=true&include_all_commits=true&count_private=true)

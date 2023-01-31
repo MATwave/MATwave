@@ -3,15 +3,15 @@
 # Hi there 👋 I'm Stanislav
 
 ![типо я](https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif)
-| Skills And Technologies 💻  | I’m Currently Learning 🌱 | Plans To Learn 📖 |
-|-----------------------------|---------------------------|-------------------|
-| - Git                       |  - Elasticsearch          |  - Oauth2         |
-|  - Python                   |  - Asyncio                |  - Apachekafka    |
-|  - Django/flask/nginx       |  - Fastapi                |  - Rabbitmq       |
-|  - Mssql/postgresql/sqlite  |  - Redis                  |  - Elk            |
-|  - Docker, Docker Compose   |                           |                   |
-|  - Etl                      |                           |                   |
-|  - Swagger                  |                           |                   |
+| Skills And Technologies 💻       |  I’m Currently Learning 🌱 | Plans To Learn 📖 |
+|----------------------------------|---------------------------|-------------------|
+| - Git                            |  - Elasticsearch          |  - Oauth2         |
+|  - Python                        |  - Asyncio                |  - Apachekafka    |
+|  - Django/flask/nginx            |  - Fastapi                |  - Rabbitmq       |
+|  - Mssql/postgresql/sqlite       |  - Redis                  |  - Elk            |
+|  - Docker, Docker Compose, Make  |                           |                   |
+|  - Etl                           |                           |                   |
+|  - Swagger                       |                           |                   |
 
  
 ### How to reach me 📫

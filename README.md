@@ -7,9 +7,10 @@
 |----------------------------------|---------------------------|-------------------|
 | - Git                            |  - Elasticsearch          |  - Oauth2         |
 |  - Python                        |  - Asyncio                |  - Apachekafka    |
-|  - Django/flask/nginx            |  - Fastapi                |  - Rabbitmq       |
-|  - Mssql/postgresql/sqlite       |  - Redis                  |  - Elk            |
-|  - Docker, Docker Compose, Make  |                           |                   |
+|  - Django/flask/Fastapi          |                           |  - Rabbitmq       |
+|  - nginx                         |                           |  - Elk            |
+|  - Mssql/postgresql/sqlite/Redis |                           |                   |
+|  - Docker/DockerCompose/Make     |                           |                   |
 |  - Etl                           |                           |                   |
 |  - Swagger                       |                           |                   |
 

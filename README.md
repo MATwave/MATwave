@@ -6,16 +6,16 @@
 
 <details><summary>Skills And Technologies | Currently Learning | Plans To Learn</summary>
 
-| Skills And Technologies 💻       |  I’m Currently Learning 🌱 | Plans To Learn 📖 |
-|----------------------------------|---------------------------|-------------------|
-| - Git                            |  - Elasticsearch          |  - Oauth2         |
-|  - Python                        |  - Asyncio                |  - Apachekafka    |
-|  - Django/flask/Fastapi          |                           |  - Rabbitmq       |
-|  - nginx                         |                           |  - Elk            |
-|  - Mssql/postgresql/sqlite/Redis |                           |                   |
-|  - Docker/DockerCompose/Make     |                           |                   |
-|  - Etl                           |                           |                   |
-|  - Swagger                       |                           |                   |
+| Skills And Technologies 💻                                                                     | I’m Currently Learning 🌱 | Plans To Learn 📖 |
+|------------------------------------------------------------------------------------------------|---------------------------|-------------------|
+| - Git                                                                                          | - Elasticsearch           | - Oauth2          |
+| - Python                                                                                       | - Asyncio                 | - Apachekafka     |
+| - <img alt="django icon" height="16" src="/icons/django.png" width="16"/> Django/flask/Fastapi |                           | - Rabbitmq        |
+| - nginx                                                                                        |                           | - Elk             |
+| - Mssql/postgresql/sqlite/Redis                                                                |                           |                   |
+| - Docker/DockerCompose/Make                                                                    |                           |                   |
+| - Etl                                                                                          |                           |                   |
+| - Swagger                                                                                      |                           |                   |
 </details>
  
 <details><summary>How to reach me 📫</summary> 

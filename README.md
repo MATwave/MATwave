@@ -6,16 +6,17 @@
 
 <details><summary>Skills And Technologies | Currently Learning | Plans To Learn</summary>
 
-| Skills And Technologies 💻                                                                     | I’m Currently Learning 🌱 | Plans To Learn 📖 |
-|------------------------------------------------------------------------------------------------|---------------------------|-------------------|
-| - Git                                                                                          | - Elasticsearch           | - Oauth2          |
-| - Python                                                                                       | - Asyncio                 | - Apachekafka     |
-| - <img alt="django icon" height="16" src="/icons/django.png" width="16"/> Django/flask/Fastapi |                           | - Rabbitmq        |
-| - nginx                                                                                        |                           | - Elk             |
-| - Mssql/postgresql/sqlite/Redis                                                                |                           |                   |
-| - Docker/DockerCompose/Make                                                                    |                           |                   |
-| - Etl                                                                                          |                           |                   |
-| - Swagger                                                                                      |                           |                   |
+| Skills And Technologies 💻                                                                                                                                                                                         | I’m Currently Learning 🌱 | Plans To Learn 📖 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------|
+| - ![git.png](icons%2Fgit.png)Git                                                                                                                                                                                   | - ![elastic.png](icons%2Felastic.png)Elasticsearch           | - Oauth2          |
+| - ![python.png](icons%2Fpython.png)Python                                                                                                                                                                          | - ![python.png](icons%2Fpython.png)Asyncio                 | - ![kafka.apache.png](icons%2Fkafka.apache.png)Apachekafka     |
+| - ![django.png](icons%2Fdjango.png)Django(![django-rest-framework.png](icons%2Fdjango-rest-framework.png)DRF)/![flask.png](icons%2Fflask.png)Flask/![fastapi.png](icons%2Ffastapi.png)Fastapi                      |                           | - ![rabbitmq.png](icons%2Frabbitmq.png)Rabbitmq        |
+| - ![nginx.png](icons%2Fnginx.png)nginx                                                                                                                                                                             |                           | - Elk             |
+| - ![favicon.ico](icons%2Ffavicon.ico)Mssql/![postgresql.png](icons%2Fpostgresql.png)postgresql/<img alt="FastApi icon" height="16" src="/icons/sqlite.svg" width="16"/>sqlite/![redis.png](icons%2Fredis.png)Redis |                           |                   |
+| - ![docker.png](icons%2Fdocker.png)Docker/DockerCompose                                                                                                                                                            |                           |                   |
+| - ![makefile.svg](icons%2Fmakefile.svg)Make                                                                                                                                                                                                             |                           |                   |
+| - Etl                                                                                                                                                                                                              |                           |                   |
+| - ![swagger.png](icons%2Fswagger.png)Swagger                                                                                                                                                                                                          |                           |                   |
 </details>
  
 <details><summary>How to reach me 📫</summary> 

@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Stanislav
 
-![типо я](https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif)
+<img align="right" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif" />
 
 <details><summary>Skills And Technologies | Currently Learning | Plans To Learn</summary>
 

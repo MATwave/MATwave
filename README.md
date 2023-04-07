@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MATwave)
-
+<img align="right" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif" height='25%' width='25%'/>
 # Hi there 👋 I'm Stanislav
-
-<img align="right" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif" />
-
 <details><summary>Skills And Technologies | Currently Learning | Plans To Learn</summary>
 
 | Skills And Technologies 💻                                                                                                                                                                                            | I’m Currently Learning 🌱                           | Plans To Learn 📖                                           |

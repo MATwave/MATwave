@@ -32,3 +32,5 @@
 > GitHub Stats
 > - ![Matwave's github stats](https://github-readme-stats.vercel.app/api?username=Matwave&show_icons=true&include_all_commits=true&count_private=true)
 </details>
+
+<img src="https://wakatime.com/share/@70d7a2fc-7a18-4d57-84dc-7e405f8f28a2/c67bc318-56c5-4f47-bfd1-c636132dea2c.svg">

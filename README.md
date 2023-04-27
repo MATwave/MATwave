@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=MATwave)
 <img align="right" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif" height='25%' width='25%'/>
+
 # Hi there 👋 I'm Stanislav
+
 <details><summary>Skills And Technologies | Currently Learning | Plans To Learn</summary>
 
 | Skills And Technologies 💻                                                                                                                                                                                            | I’m Currently Learning 🌱                           | Plans To Learn 📖                                           |
@@ -14,8 +16,9 @@
 | - <img alt="makefile icon" height="16" src="/icons/makefile.svg" width="16"/> Make                                                                                                                                    |                                                     |                                                             |
 | - Etl                                                                                                                                                                                                                 |                                                     |                                                             |
 | - ![swagger.png](icons%2Fswagger.png) Swagger                                                                                                                                                                         |                                                     |                                                             |
+
 </details>
- 
+
 
 
 
@@ -30,14 +33,14 @@
   <tbody>
     <tr width="600px">
       <td><img src="https://wakatime.com/share/@70d7a2fc-7a18-4d57-84dc-7e405f8f28a2/972b9d6a-2691-4809-ab7e-3ca949bba2d0.svg"></td>
-      <td><img src="https://wakatime.com/share/@70d7a2fc-7a18-4d57-84dc-7e405f8f28a2/c67bc318-56c5-4f47-bfd1-c636132dea2c.svg"></td>
+      <td><img src="https://wakatime.com/share/@70d7a2fc-7a18-4d57-84dc-7e405f8f28a2/efd10c6b-7dea-42f1-b94e-aee5c5c6f883.svg"></td>
     </tr>
   </tbody>
 </table>
 
 
 <details><summary>Other stats</summary> 
- 
+
 > ![Codewars](https://www.codewars.com/)
 > - [![codewars](https://www.codewars.com/users/MATwave/badges/small)](https://www.codewars.com/users/MATwave)
 
@@ -49,6 +52,7 @@
 </details>
 
 <details><summary>How to reach me 📫</summary> 
- 
- - 📧 stanislav.matveew@yandex.ru
+
+- 📧 stanislav.matveew@yandex.ru
+
 </details>

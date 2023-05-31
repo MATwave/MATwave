@@ -9,19 +9,19 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
 | - ![git.png](icons%2Fgit.png) Git                                                                                                                                                                                     | - ![elastic.png](icons%2Felastic.png) Elasticsearch | - Oauth2                                                    |
 | - ![python.png](icons%2Fpython.png) Python                                                                                                                                                                            | - ![python.png](icons%2Fpython.png) Asyncio         | - ![kafka.apache.png](icons%2Fkafka.apache.png) Apachekafka |
-| - ![django.png](icons%2Fdjango.png) Django(![django-rest-framework.png](icons%2Fdjango-rest-framework.png) DRF)/![flask.png](icons%2Fflask.png) Flask/![fastapi.png](icons%2Ffastapi.png) FastAPI                     |                                                     | - ![rabbitmq.png](icons%2Frabbitmq.png) Rabbitmq            |
-| - ![nginx.png](icons%2Fnginx.png) Nginx                                                                                                                                                                               |                                                     | - Elk                                                       |
+| - ![django.png](icons%2Fdjango.png) Django(![django-rest-framework.png](icons%2Fdjango-rest-framework.png) DRF)/![flask.png](icons%2Fflask.png) Flask/![fastapi.png](icons%2Ffastapi.png) FastAPI                     |                                                     | - Elk                                                       |
+| - ![nginx.png](icons%2Fnginx.png) Nginx                                                                                                                                                                               |                                                     |                                                             |
 | - ![favicon.ico](icons%2Ffavicon.ico) Mssql/![postgresql.png](icons%2Fpostgresql.png) PostgreSQL/<img alt="sqlite icon" height="16" src="/icons/sqlite.svg" width="16"/> Sqlite/![redis.png](icons%2Fredis.png) Redis |                                                     |                                                             |
 | - ![docker.png](icons%2Fdocker.png) Docker/DockerCompose                                                                                                                                                              |                                                     |                                                             |
 | - <img alt="makefile icon" height="16" src="/icons/makefile.svg" width="16"/> Make                                                                                                                                    |                                                     |                                                             |
 | - Etl                                                                                                                                                                                                                 |                                                     |                                                             |
 | - ![swagger.png](icons%2Fswagger.png) Swagger                                                                                                                                                                         |                                                     |                                                             |
-
+| - ![rabbitmq.png](icons%2Frabbitmq.png) Rabbitmq                                                                                                                                                                      |                                                     |                                                             |                   
 </details>
 
 
 
-
+Apachekafka
 <!-- prettier-ignore -->
 <table>
   <thead>

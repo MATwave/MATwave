@@ -20,8 +20,6 @@
 </details>
 
 
-
-Apachekafka
 <!-- prettier-ignore -->
 <table>
   <thead>
